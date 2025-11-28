@@ -1,0 +1,3 @@
+[submodule "microgrid-interface"]
+	path = microgrid-interface
+	url = https://github.com/santiagoramirez10/microgrid-interface
